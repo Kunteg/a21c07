@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAHesapMakinesi", "WFAHesapMakinesi\WFAHesapMakinesi.csproj", "{C6C337EA-2662-4F4F-9550-42AA4E676CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C337EA-2662-4F4F-9550-42AA4E676CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C337EA-2662-4F4F-9550-42AA4E676CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C337EA-2662-4F4F-9550-42AA4E676CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C337EA-2662-4F4F-9550-42AA4E676CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1459F3-BA37-44EF-9486-F72005D988D3}
+	EndGlobalSection
+EndGlobal
